@@ -1,0 +1,22 @@
+<html> 
+    <head> <style type="text/css">
+       h1,h2,{
+            text-align: center;
+        }
+    </style>
+        
+        <title> minha pagina </title>
+        
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    
+    </head>
+    <body>
+        <h1>quem sou eu?</h1>
+        <img src="https://photos.app.goo.gl/CBRpHyacyUZSHw28A">
+        <p>meu nome é <b>luiz gustavo</b> eu estou tentando me tornar um programador full stack e estou aprendendo a mecher em html, css e javascript.</p>
+        <h2>minhas redes sociais</h2>
+        <a href="https://www.instagram.com/inp_luizg?igsh=MzNlNGNkZWQ4Mg==">meu instagram</a><br>
+        <a href= "https://wa.me/5581992287802">whatsapp</a>
+
+    </body>
+</html>
